@@ -67,7 +67,7 @@ make -f _dev/Makefile build-all
 
 ### Testing
 
-We run 3 kinds of test:.
+We run 3 kinds of tests:
 
 * Unit testing: <br/>``make -f _dev/Makefile test-unit``
 * Testing against BoringSSL test suite: <br/>``make -f _dev/Makefile test-bogo``
